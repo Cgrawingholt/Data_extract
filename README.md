@@ -1,2 +1,2 @@
 # Data_extract
-How to extract data from XML files
+Extract data from XML files
